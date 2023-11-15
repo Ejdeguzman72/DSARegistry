@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.dsa</groupId>
-	<artifactId>dsa-eureka-server</artifactId>
+	<artifactId>registry</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>dsa-eureka-server</name>
+	<name>dsa-registry</name>
 	<description>DSA Eureka Server</description>
 	<properties>
 		<java.version>17</java.version>
